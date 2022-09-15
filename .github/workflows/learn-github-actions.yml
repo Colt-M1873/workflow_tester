@@ -18,7 +18,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: https://leetcode.com/CyberDJ/
+          plugin_leetcode_user: CyberDJ
           plugin_leetcode_sections: solved, skills, recent
 
       - name: News from hackernews
