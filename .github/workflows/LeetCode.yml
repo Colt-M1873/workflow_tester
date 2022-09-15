@@ -1,4 +1,5 @@
 name: LeetCode
+on: [push]
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.leetcode.svg
