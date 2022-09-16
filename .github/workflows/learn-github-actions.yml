@@ -14,7 +14,7 @@ jobs:
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
-          filename: ./imgs/metrics.plugin.leetcode.svg
+          filename: metrics.plugin.leetcode.svg
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
@@ -24,7 +24,7 @@ jobs:
       - name: News from hackernews
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.rss.svg
+          filename: imgs/metrics.plugin.rss.svg
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
