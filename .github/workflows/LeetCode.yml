@@ -1,5 +1,8 @@
 name: LeetCode 
-on: [push]
+on: 
+  schedule:
+    - cron: '30 8 * * *'
+  workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
