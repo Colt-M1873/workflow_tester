@@ -1,7 +1,8 @@
 name: RSS_feed
 on: 
   schedule:
-    - cron: '6 * * * *'
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
 jobs:
   metrics:
     runs-on: ubuntu-latest
