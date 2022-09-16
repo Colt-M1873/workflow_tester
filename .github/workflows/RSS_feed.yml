@@ -5,12 +5,12 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: LeetCode
+      - name: News from hackernews
         uses: lowlighter/metrics@latest
         with:
-          filename: imgs/metrics.plugin.leetcode.svg
+          filename: imgs/metrics.plugin.rss.svg
           token: NOT_NEEDED
           base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_user: CyberDJ
-          plugin_leetcode_sections: solved, skills, recent
+          plugin_rss: yes
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
