@@ -1,7 +1,7 @@
 name: RSS_feed
 on: 
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/58 * * * *'
   workflow_dispatch:
 jobs:
   metrics:
