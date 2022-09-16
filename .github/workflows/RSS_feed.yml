@@ -1,6 +1,7 @@
 name: RSS_feed
 on: 
-  schedule: [{cron: "*/8 * * * *"}]
+  schedule:
+    - cron: '*/6 * * * *'
 jobs:
   metrics:
     runs-on: ubuntu-latest
