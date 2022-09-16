@@ -1,6 +1,5 @@
 name: LeetCode 
-on: 
-  schedule: [{cron: "*/3 * * * *"}]
+on: [push]
 jobs:
   metrics:
     runs-on: ubuntu-latest

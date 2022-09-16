@@ -1,6 +1,6 @@
-name: LeetCode 
+name: RSS_feed
 on: 
-  schedule: [{cron: "*/3 * * * *"}]
+  schedule: [{cron: "* * * * *"}]
 jobs:
   metrics:
     runs-on: ubuntu-latest
