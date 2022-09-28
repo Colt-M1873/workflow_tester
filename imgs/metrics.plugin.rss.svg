@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tiny robots have successfully cleared pneumonia from the lungs of mice</div>
+                                <div class="title">High-performance image generation using Stable Diffusion in KerasCV</div>
                                 <div class="date">28 Sept 2022</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I've said it all before but here we go again</div>
-                                <div class="date">28 Sept 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">62 People own the same as half the world, reveals Oxfam Davos report</div>
+                                <div class="title">Gaming CS Interviews</div>
                                 <div class="date">28 Sept 2022</div>
                             </div>
                         </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">The Open Source PC That Fits in Your Pocket</div>
                                 <div class="date">28 Sept 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Integrating with Fastmail</div>
+                                <div class="date">27 Sept 2022</div>
                             </div>
                         </div>
                     </section>
