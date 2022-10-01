@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="28.933526011560694 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">213</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="29.069364161849713 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">214</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/2422</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -46,8 +46,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="9.857677902621724 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">16</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="10.47378277153558 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">17</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/534</text>
                                 </svg>
                                 <span class="title">Hard</span>
@@ -63,7 +63,7 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x89</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x90</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x44</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x43</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x39</span></div>
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Find K Closest Elements</div>
-                            <div class="date">29 Sept 2022</div>
+                            <div class="title">The Skyline Problem</div>
+                            <div class="date">30 Sept 2022</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Remove Nth Node From End of List</div>
-                            <div class="date">28 Sept 2022</div>
+                            <div class="title">Find K Closest Elements</div>
+                            <div class="date">29 Sept 2022</div>
                         </div>
                     </div>
                 </section>
