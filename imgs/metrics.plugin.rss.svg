@@ -20,17 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PayPal’s updated acceptable use policy [pdf]</div>
+                                <div class="title">Tell HN: A disabled 40-year-old person founded a startup and makes a living</div>
                                 <div class="date">3 Oct 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Photo of plutonium at Los Alamos shut down a lab for four years (2017)</div>
-                                <div class="date">2 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">New Pegasus Spyware Abuses Identified in Mexico</div>
                                 <div class="date">3 Oct 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">First make the change easy, then make the easy change (2021)</div>
+                                <div class="date">2 Oct 2022</div>
                             </div>
                         </div>
                     </section>
