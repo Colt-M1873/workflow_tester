@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Swiss Post Design System</div>
+                                <div class="title">Starting a food co-op: Year 1</div>
                                 <div class="date">10 Oct 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Helix: A Neovim inspired editor, written in Rust</div>
+                                <div class="title">Back to Android (For the Time Being)</div>
                                 <div class="date">10 Oct 2022</div>
                             </div>
                         </div>
