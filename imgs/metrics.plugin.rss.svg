@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Toyota Accidently Exposed a Secret Key Publicly on GitHub for Five Years</div>
+                                <div class="title">Toyota suffered a data breach by accidentally exposing a secret key on GitHub</div>
                                 <div class="date">13 Oct 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A database without dynamic memory allocation</div>
+                                <div class="title">Discovering Azure's unannounced breaking change with Cosmos DB</div>
                                 <div class="date">13 Oct 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Discovering Azure's unannounced breaking change with Cosmos DB</div>
+                                <div class="title">A database without dynamic memory allocation</div>
                                 <div class="date">13 Oct 2022</div>
                             </div>
                         </div>
