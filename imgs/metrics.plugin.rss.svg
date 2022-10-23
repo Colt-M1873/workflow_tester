@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Curl doesn't add libproxy due to its quality issues</div>
+                                <div class="title">How rust 1.64 became faster on Windows</div>
                                 <div class="date">23 Oct 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Space-based solar power is getting serious</div>
-                                <div class="date">20 Oct 2022</div>
+                                <div class="title">A chill driving game with procedurally generate scenic landscapes</div>
+                                <div class="date">23 Oct 2022</div>
                             </div>
                         </div>
                     </section>
