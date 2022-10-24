@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fake Books</div>
+                                <div class="title">An alternative to Elasticsearch that runs on a few MBs of RAM</div>
                                 <div class="date">24 Oct 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Game Boy SM83 CPU Core</div>
+                                <div class="title">Fake Books</div>
                                 <div class="date">24 Oct 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">98.css – design system for building faithful recreations of Windows 98 UIs</div>
-                                <div class="date">23 Oct 2022</div>
+                                <div class="title">Game Boy SM83 CPU Core</div>
+                                <div class="date">24 Oct 2022</div>
                             </div>
                         </div>
                     </section>
