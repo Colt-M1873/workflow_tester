@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Will Twitter outlast this lettuce?</div>
-                                <div class="date">5 Nov 2022</div>
+                                <div class="title">In Defense of Linked Lists</div>
+                                <div class="date">4 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pëtr Kropotkin and Mutual Aid</div>
+                                <div class="title">MDN converted to Markdown</div>
                                 <div class="date">5 Nov 2022</div>
                             </div>
                         </div>
