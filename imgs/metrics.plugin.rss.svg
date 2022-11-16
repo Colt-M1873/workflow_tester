@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Are We Prisoners of Geography?</div>
-                                <div class="date">14 Nov 2022</div>
+                                <div class="title">But, aren't you folks web2?</div>
+                                <div class="date">16 Nov 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cesium detected in the atmosphere of a hot white dwarf</div>
-                                <div class="date">15 Nov 2022</div>
+                                <div class="title">GPS does not account for leap seconds (by design)</div>
+                                <div class="date">16 Nov 2022</div>
                             </div>
                         </div>
                     </section>
