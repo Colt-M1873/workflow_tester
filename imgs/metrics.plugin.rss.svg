@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unix time is bad and needs replacement, not UTC</div>
+                                <div class="title">Someone has to say it: Voice assistants are not doing it for big tech</div>
                                 <div class="date">23 Nov 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Building the fastest Lua interpreter automatically</div>
-                                <div class="date">22 Nov 2022</div>
+                                <div class="title">Help seed Z-Library on IPFS</div>
+                                <div class="date">23 Nov 2022</div>
                             </div>
                         </div>
                     </section>
