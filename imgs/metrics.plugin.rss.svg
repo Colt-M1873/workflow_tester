@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WikiLeaks is struggling to stay online as millions of documents disappear</div>
-                                <div class="date">23 Nov 2022</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Someone has to say it: Voice assistants are not doing it for big tech</div>
                                 <div class="date">23 Nov 2022</div>
                             </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Japanese have been producing wood for 700 years without cutting down trees</div>
+                                <div class="title">WikiLeaks is struggling to stay online as millions of documents disappear</div>
                                 <div class="date">23 Nov 2022</div>
                             </div>
                         </div>
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Help seed Z-Library on IPFS</div>
+                                <div class="date">23 Nov 2022</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Japanese have been producing wood for 700 years without cutting down trees</div>
                                 <div class="date">23 Nov 2022</div>
                             </div>
                         </div>
