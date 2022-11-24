@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Investigating a backdoored PyPI package targeting FastAPI applications</div>
+                                <div class="title">Git-bug: Distributed, offline-first bug tracker embedded in Git</div>
                                 <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Stable Diffusion 2.0 on Mac and Linux via imaginAIry Python library</div>
+                                <div class="title">Investigating a backdoored PyPI package targeting FastAPI applications</div>
                                 <div class="date">24 Nov 2022</div>
                             </div>
                         </div>
