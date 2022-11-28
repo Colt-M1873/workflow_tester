@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Git Notes: Git's Coolest, Most Unloved­ Feature</div>
+                                <div class="title">Photography for geeks</div>
                                 <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Index Merges vs. Composite Indexes in Postgres and MySQL</div>
+                                <div class="title">NopeCHA: Captcha Solver</div>
                                 <div class="date">27 Nov 2022</div>
                             </div>
                         </div>
