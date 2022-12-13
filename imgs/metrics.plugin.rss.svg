@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How are you doing?</div>
+                                <div class="title">Shutting down our unencrypted public DNS service</div>
                                 <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Farewell, Building in Public</div>
+                                <div class="title">Secretary Granholm to announce major scientific breakthrough by DOE [video]</div>
                                 <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A vid in which Vim saves me hours and hundreds of clicks (2018) [video]</div>
-                                <div class="date">12 Dec 2022</div>
+                                <div class="title">LosslessCut: The Swiss Army Knife of Lossless Video/Audio Editing</div>
+                                <div class="date">13 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PeerTube v5: the result of 5 years’ handcrafting</div>
-                                <div class="date">13 Dec 2022</div>
+                                <div class="title">A neat XOR trick</div>
+                                <div class="date">11 Dec 2022</div>
                             </div>
                         </div>
                     </section>
