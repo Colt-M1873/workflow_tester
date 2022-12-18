@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Next, Nest, Nuxt Nust?</div>
+                                <div class="title">EsPiFF: An ESP32 in the Raspberry Pi form factor</div>
                                 <div class="date">18 Dec 2022</div>
                             </div>
                         </div>
