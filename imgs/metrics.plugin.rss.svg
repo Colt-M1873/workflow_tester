@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tamagui 1.0 – Cross-platform React apps</div>
+                                <div class="title">Why I wrote a SQL engine in (only) Python</div>
                                 <div class="date">30 Dec 2022</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We got grifted by a distributor and need to move 30k bags of coffee [updated]</div>
+                                <div class="title">Tamagui 1.0 – Cross-platform React apps in less time, with better performance</div>
                                 <div class="date">30 Dec 2022</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cheerful chatbots don’t necessarily improve customer service</div>
-                                <div class="date">28 Dec 2022</div>
+                                <div class="title">What are those dents in I-90 outside Seattle?</div>
+                                <div class="date">30 Dec 2022</div>
                             </div>
                         </div>
                     </section>
