@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A search engine for searching books in the Z-Library index on the IPFS network</div>
+                                <div class="title">Golang is evil on shitty networks</div>
                                 <div class="date">29 Dec 2022</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Saying “sup” with `net send`</div>
-                                <div class="date">28 Dec 2022</div>
+                                <div class="title">Kagi – Paid Search Engine</div>
+                                <div class="date">30 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Airport runway names shift with magnetic field</div>
+                                <div class="title">A search engine for searching books in the Z-Library index on the IPFS network</div>
                                 <div class="date">29 Dec 2022</div>
                             </div>
                         </div>
