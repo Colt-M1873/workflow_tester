@@ -29,6 +29,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Tilck – A Tiny Linux-Compatible Kernel</div>
+                                <div class="date">8 Jan 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Jailbroken iOS can't run macOS apps – I spent a week to find out why (2021)</div>
                                 <div class="date">7 Jan 2023</div>
                             </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Excess management is costing the U.S. $3T per year (2016)</div>
                                 <div class="date">7 Jan 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Tell HN: Maarten van Emden died on January 4, 2023</div>
-                                <div class="date">8 Jan 2023</div>
                             </div>
                         </div>
                     </section>
