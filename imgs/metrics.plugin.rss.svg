@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pirate Weather: A Free, Open, and Documented Forecast API</div>
+                                <div class="title">Pirate Weather: A free, open, and documented forecast API</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">X Window System Basics</div>
+                                <div class="title">8086 Processor's microcode pipeline from die analysis</div>
                                 <div class="date">10 Jan 2023</div>
                             </div>
                         </div>
