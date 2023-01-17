@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pretty Good House</div>
+                                <div class="title">The Pretty Good House</div>
                                 <div class="date">17 Jan 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Major standard library changes in Go 1.20</div>
-                                <div class="date">16 Jan 2023</div>
+                                <div class="title">Hubble finds black hole twisting captured star into donut shape</div>
+                                <div class="date">17 Jan 2023</div>
                             </div>
                         </div>
                     </section>
