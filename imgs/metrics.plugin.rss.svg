@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Message from Eric Yuan, CEO of Zoom</div>
+                                <div class="title">A pocket sized open-source AR device for the imaginative hacker</div>
                                 <div class="date">7 Feb 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A pocket sized open-source AR device for the imaginative hacker</div>
+                                <div class="title">Why do we create modern Desktop GUI apps using HTML/CSS/JavaScript?</div>
                                 <div class="date">7 Feb 2023</div>
                             </div>
                         </div>
