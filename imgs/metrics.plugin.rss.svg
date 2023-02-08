@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Reverse engineer Stable Diffusion images</div>
+                                <div class="title">Estonian Foreign Intelligence Service's 2023 Security Report</div>
                                 <div class="date">8 Feb 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google and Mozilla are working on iOS browsers that aren't based on WebKit</div>
-                                <div class="date">7 Feb 2023</div>
+                                <div class="title">Can sanitizers find the two bugs I wrote in C++?</div>
+                                <div class="date">8 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
