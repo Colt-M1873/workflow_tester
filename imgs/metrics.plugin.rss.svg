@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mozilla Sees Loopholes in Google’s Data Safety Labels</div>
+                                <div class="title">A tale of Phobos – How we almost cracked a ransomware using CUDA</div>
                                 <div class="date">24 Feb 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It’s time for Alphabet to spin off YouTube</div>
+                                <div class="title">Rust on Espressif chips – 2023 Roadmap</div>
                                 <div class="date">24 Feb 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A tale of Phobos – how we almost cracked a ransomware using CUDA</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">GPT Spiritual Avisor</div>
+                                <div class="date">22 Feb 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BASF to Cut 2,600 Jobs as Energy Crisis Hits German Industry</div>
-                                <div class="date">24 Feb 2023</div>
+                                <div class="title">Squeezing a Sokoban game into 10 lines of Haskell</div>
+                                <div class="date">22 Feb 2023</div>
                             </div>
                         </div>
                     </section>
