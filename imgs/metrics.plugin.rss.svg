@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LoRA: Low-Rank Adaptation of Large Language Models</div>
+                                <div class="title">Let&amp;#x27;s Encrypt: Reliability via Automated Renewal Information</div>
                                 <div class="date">24 Mar 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Juice</div>
-                                <div class="date">23 Mar 2023</div>
+                                <div class="title">Hello Dolly: Democratizing the magic of ChatGPT with open models</div>
+                                <div class="date">24 Mar 2023</div>
                             </div>
                         </div>
                     </section>
