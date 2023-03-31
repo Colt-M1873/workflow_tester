@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My kids and I just played D&amp;amp;D with ChatGPT4 as the DM</div>
-                                <div class="date">30 Mar 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Scratch is the world’s largest coding community for children</div>
                                 <div class="date">30 Mar 2023</div>
                             </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">When Google paid websites to promote Firefox</div>
+                                <div class="title">One man’s quest to revive the great American vacuum tube</div>
                                 <div class="date">30 Mar 2023</div>
                             </div>
                         </div>
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There&amp;#x27;s something off about LED bulbs</div>
+                                <div class="title">Show HN: RoboPianist, a piano playing robot simulation in the browser</div>
+                                <div class="date">30 Mar 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: StratusGFX, my open-source real-time 3D rendering engine</div>
                                 <div class="date">30 Mar 2023</div>
                             </div>
                         </div>
