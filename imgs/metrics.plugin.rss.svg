@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">iOS lets carriers add WiFi networks that you can’t remove or stop from joining</div>
-                                <div class="date">5 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Unpredictable Black Boxes Are Terrible Interfaces</div>
                                 <div class="date">5 Apr 2023</div>
                             </div>
@@ -38,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FBI seizes bot shop ‘Genesis Market’ amid arrests targeting operators, suppliers</div>
-                                <div class="date">4 Apr 2023</div>
+                                <div class="title">US Government published guide to sabotage organizational productivity (1944)</div>
+                                <div class="date">5 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +38,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Supercentenarian records show patterns indicative of errors and pension fraud</div>
-                                <div class="date">4 Apr 2023</div>
+                                <div class="title">iOS lets carriers add WiFi networks that you can’t remove or stop from joining</div>
+                                <div class="date">5 Apr 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Tabloid – The Clickbait Headline Programming Language</div>
+                                <div class="date">5 Apr 2023</div>
                             </div>
                         </div>
                     </section>
