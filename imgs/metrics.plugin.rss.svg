@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Street Photography of Japan&amp;#x27;s Aging Population</div>
-                                <div class="date">25 Apr 2023</div>
+                                <div class="title">GUI development with Rust and GTK 4</div>
+                                <div class="date">24 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Deep Neural Networks from Scratch in Zig</div>
+                                <div class="title">The Nature of Code (Book)</div>
                                 <div class="date">25 Apr 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">No WIMPS Heavy particles don’t explain gravitational lensing oddities</div>
-                                <div class="date">24 Apr 2023</div>
+                                <div class="title">The Old (2018)</div>
+                                <div class="date">25 Apr 2023</div>
                             </div>
                         </div>
                     </section>
