@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What&amp;#x27;s up in the Python community? – April 2023</div>
+                                <div class="title">JanOS: Turn your phone into an IoT board</div>
                                 <div class="date">28 Apr 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Subvert a Democracy, Stage 2: Condition the Masses</div>
+                                <div class="title">Junk drawer phone as a music streaming server</div>
+                                <div class="date">28 Apr 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Genetic circuitry boosts cell longevity</div>
                                 <div class="date">28 Apr 2023</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">There’s more than one way to write an IP address (2019)</div>
                                 <div class="date">28 Apr 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">The Canoe Commuters of the CIA</div>
-                                <div class="date">27 Apr 2023</div>
                             </div>
                         </div>
                     </section>
