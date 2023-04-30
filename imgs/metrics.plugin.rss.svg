@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">40 Years of Koyaanisqatsi</div>
+                                <div class="title">Maybe you should store passwords in plaintext</div>
                                 <div class="date">30 Apr 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Advanced Amiga Architecture (June 18, 1992)</div>
+                                <div class="title">Speed Is All You Need: On-Device Acceleration of Large Diffusion Models</div>
                                 <div class="date">30 Apr 2023</div>
                             </div>
                         </div>
