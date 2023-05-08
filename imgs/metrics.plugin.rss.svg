@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FBI agents accuse CIA of 9&amp;#x2F;11 coverup</div>
+                                <div class="title">OpenBSD cron(8) now supports random ranges with steps</div>
                                 <div class="date">8 May 2023</div>
                             </div>
                         </div>
