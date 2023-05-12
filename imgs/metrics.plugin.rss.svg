@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Introducing &amp;quot;Implement DNS in a Weekend&amp;quot;</div>
+                                <div class="title">Implement DNS in a Weekend</div>
                                 <div class="date">12 May 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pytz: The Fastest Footgun in the West</div>
+                                <div class="title">Pytz: The Fastest Footgun in the West (2018)</div>
                                 <div class="date">11 May 2023</div>
                             </div>
                         </div>
