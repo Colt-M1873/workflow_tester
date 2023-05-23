@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">RWKV: Reinventing RNNs for the Transformer Era</div>
+                                <div class="date">23 May 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">The Open Buddhist University</div>
                                 <div class="date">22 May 2023</div>
                             </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">&amp;#x27;BlackBerry&amp;#x27; review: The comedy and tragedy of the innovator&amp;#x27;s dilemma</div>
-                                <div class="date">21 May 2023</div>
+                                <div class="title">Is 20M of rows still a valid soft limit of MySQL table in 2023?</div>
+                                <div class="date">23 May 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Salt Lake 2002 – not enough memory&amp;#x2F;crashes to desktop after starting error</div>
-                                <div class="date">22 May 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">What if you did the exact opposite, like rogue bees do (2020)</div>
                                 <div class="date">22 May 2023</div>
                             </div>
                         </div>
