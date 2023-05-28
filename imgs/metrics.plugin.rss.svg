@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bayes is guaranteed to overfit, for any model, any prior, and every data point</div>
+                                <div class="title">The halting problem is decidable on a set of asymptotic probability one (2006)</div>
                                 <div class="date">28 May 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">JeanHeyd Meneide&amp;#x27;s response to “Why I left Rust”</div>
+                                <div class="title">Bayes is guaranteed to overfit</div>
                                 <div class="date">28 May 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bcrypt at 25: A Retrospective on Password Security</div>
+                                <div class="title">Bcrypt at 25</div>
                                 <div class="date">28 May 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vitamin D: Potent regulator of dopaminergic neuron differentiation and function</div>
+                                <div class="title">YouTube removed dislike counts, so this guy made Rotten Tomatoes for YouTube</div>
                                 <div class="date">28 May 2023</div>
                             </div>
                         </div>
