@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An open source, educational, low-cost modern analog computer</div>
+                                <div class="title">Render a neural network into CUDA/HIP code</div>
                                 <div class="date">2 Jun 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">StackOverflow petition to allow remove AI generated content</div>
+                                <div class="title">The Analog Thing: an open source, educational, low-cost modern analog computer</div>
                                 <div class="date">2 Jun 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Skybox AI: Use AI to generate 3D worlds</div>
+                                <div class="title">Kenneth Anger Has Died</div>
                                 <div class="date">2 Jun 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Using Google’s code history to write more code</div>
+                                <div class="title">System76's coreboot open firmware manages to disable Intel ME for Raptor Lake</div>
                                 <div class="date">2 Jun 2023</div>
                             </div>
                         </div>
