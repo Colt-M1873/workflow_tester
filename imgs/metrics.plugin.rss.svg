@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Barracuda Urges Replacing – Not Patching – Its Email Security Gateways</div>
+                                <div class="title">Barracuda urges replacing, not patching, its email security gateways</div>
                                 <div class="date">10 Jun 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An Elm Fork</div>
+                                <div class="title">Gren – an Elm fork</div>
                                 <div class="date">10 Jun 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Generative AI support on Vertex AI is now generally available</div>
-                                <div class="date">10 Jun 2023</div>
+                                <div class="title">Why Do ML on the Erlang VM?</div>
+                                <div class="date">9 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A performance analysis of Intel x86-SIMD-sort (AVX-512)</div>
+                                <div class="title">Peanut Butter Jellyfin Time</div>
                                 <div class="date">10 Jun 2023</div>
                             </div>
                         </div>
