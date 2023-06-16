@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">io_uring disabled across Google platforms</div>
+                                <div class="title">Learnings from kCTF VRP's 42 Linux kernel exploits submissions</div>
                                 <div class="date">16 Jun 2023</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Software effort estimation is mostly fake research</div>
-                                <div class="date">15 Jun 2023</div>
+                                <div class="title">Reddit is removing moderators that protest by taking their communities private</div>
+                                <div class="date">16 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
