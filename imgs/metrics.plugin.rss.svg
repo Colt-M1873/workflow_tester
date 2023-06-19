@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to ramp up a factory consuming a lot of energy?</div>
+                                <div class="title">Ken Thompson on the bug that exposed his compiler trojan (2021)</div>
                                 <div class="date">19 Jun 2023</div>
                             </div>
                         </div>
