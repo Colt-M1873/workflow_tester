@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emacs GUI Library</div>
+                                <div class="title">Interaction to Next Paint (INP)</div>
                                 <div class="date">11 Jul 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Introducing Keras Core: Keras for TensorFlow, Jax, and PyTorch</div>
+                                <div class="title">Retro: A modern, pragmatic Forth</div>
                                 <div class="date">11 Jul 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google's new metrics: Interaction to Next Paint (INP)</div>
+                                <div class="title">Classifying customer messages with LLMs vs traditional ML</div>
                                 <div class="date">11 Jul 2023</div>
                             </div>
                         </div>
