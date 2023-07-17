@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Firefox-Only Minimap</div>
+                                <div class="title">A Firefox-only minimap (2021)</div>
                                 <div class="date">17 Jul 2023</div>
                             </div>
                         </div>
@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LazyVim</div>
+                                <div class="title">The C Programming Language: Myths and Reality</div>
                                 <div class="date">17 Jul 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Birds Build Nests from Anti-Bird Spikes</div>
-                                <div class="date">16 Jul 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Notes on Problem-Solving</div>
+                                <div class="date">17 Jul 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Temporary ban on behavioural advertising on Facebook and Instagram</div>
                                 <div class="date">17 Jul 2023</div>
                             </div>
                         </div>
