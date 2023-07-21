@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I have written a JVM in Rust</div>
+                                <div class="title">LLaMA2 isn't “Open Source” – and why it doesn't matter</div>
                                 <div class="date">21 Jul 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quench of LHC inner triplet magnet causes a small leak with major consequences</div>
+                                <div class="title">I have written a JVM in Rust</div>
                                 <div class="date">21 Jul 2023</div>
                             </div>
                         </div>
