@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Teach a Man to Phish and He’s Set for Life</div>
+                                <div class="title">(Next Rich)</div>
+                                <div class="date">4 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Remote work requires communicating more, but less frequently</div>
                                 <div class="date">4 Aug 2023</div>
                             </div>
                         </div>
@@ -30,15 +39,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Successful room temperature ambient-pressure magnetic levitation of LK-99</div>
-                                <div class="date">4 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Painting the Eiffel Tower</div>
                                 <div class="date">4 Aug 2023</div>
                             </div>
                         </div>
