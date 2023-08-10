@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Maybe the problem is that Harvard exists</div>
+                                <div class="title">Do Machine Learning Models Memorize or Generalize?</div>
                                 <div class="date">10 Aug 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Do Machine Learning Models Memorize or Generalize?</div>
+                                <div class="title">Two Students Shoot Down a Widely Believed Math Conjecture</div>
                                 <div class="date">10 Aug 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Future of the Vim Project</div>
-                                <div class="date">10 Aug 2023</div>
+                                <div class="title">Exoplanets Could Help Us Learn How Planets Make Magnetism</div>
+                                <div class="date">8 Aug 2023</div>
                             </div>
                         </div>
                     </section>
