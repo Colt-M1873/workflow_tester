@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I wrote a RDBMS (SQLite clone) from scratch in pure Python</div>
-                                <div class="date">13 Aug 2023</div>
+                                <div class="title">Jitsi Meet Flutter SDK</div>
+                                <div class="date">14 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Jitsi Meet Flutter SDK</div>
+                                <div class="title">The world in which IPv6 was a good design (2017)</div>
                                 <div class="date">14 Aug 2023</div>
                             </div>
                         </div>
