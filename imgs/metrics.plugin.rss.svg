@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Modern Computer Architecture and Organization: Learn x86, ARM, and RISC-V</div>
+                                <div class="title">Modern Computer Architecture and Organization - Second Edition (2022)</div>
                                 <div class="date">23 Aug 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Permutation iteration and random access</div>
+                                <div class="title">Enhance Rust errors with file and line details</div>
                                 <div class="date">23 Aug 2023</div>
                             </div>
                         </div>
