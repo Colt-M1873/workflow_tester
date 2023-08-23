@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A complete guide to building a hand-wired keyboard (2020)</div>
-                                <div class="date">22 Aug 2023</div>
+                                <div class="title">macOS 13.5 no longer allows setting system wide ulimits</div>
+                                <div class="date">23 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
