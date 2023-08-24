@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Time ran slowly in the early Universe, just as Einstein predicted</div>
+                                <div class="title">Open source LLM with 32k Context Length</div>
+                                <div class="date">24 Aug 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Cosmological time dilation in the early Universe</div>
                                 <div class="date">21 Aug 2023</div>
                             </div>
                         </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI real-time human full-body photo generator</div>
-                                <div class="date">23 Aug 2023</div>
+                                <div class="title">The History of Windows 2.0</div>
+                                <div class="date">21 Aug 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chandrayaan-3 Soft-landing [video]</div>
-                                <div class="date">23 Aug 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">On keeping sketchbooks</div>
-                                <div class="date">22 Aug 2023</div>
+                                <div class="title">Japan starts release of Fukushima’s treated radioactive water</div>
+                                <div class="date">24 Aug 2023</div>
                             </div>
                         </div>
                     </section>
