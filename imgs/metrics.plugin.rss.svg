@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A forum engine written in Assembly</div>
+                                <div class="title">PMET: Precise Model Editing in a Transformer</div>
                                 <div class="date">27 Aug 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Python Type Hints – *args and **kwargs (2021)</div>
+                                <div class="title">Python proposal (inspired by Lua)</div>
                                 <div class="date">27 Aug 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Classical Music Is for Everyone</div>
+                                <div class="title">Python Type Hints – *args and **kwargs (2021)</div>
                                 <div class="date">27 Aug 2023</div>
                             </div>
                         </div>
