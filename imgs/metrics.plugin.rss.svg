@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fig Has Joined AWS</div>
+                                <div class="title">Social media’s addictive loop compels users to share mindlessly</div>
                                 <div class="date">28 Aug 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Social media’s addictive loop compels users to share mindlessly</div>
+                                <div class="title">A JVM in Rust part 5 – Executing instructions</div>
                                 <div class="date">28 Aug 2023</div>
                             </div>
                         </div>
