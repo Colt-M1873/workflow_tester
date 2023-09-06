@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learn WebAssembly by writing small programs</div>
-                                <div class="date">5 Sept 2023</div>
+                                <div class="title">Astro 3.0</div>
+                                <div class="date">4 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Time to preserve those floppy disks</div>
-                                <div class="date">2 Sept 2023</div>
+                                <div class="title">On the 10th anniversary of the Snowden revelations</div>
+                                <div class="date">6 Sept 2023</div>
                             </div>
                         </div>
                     </section>
