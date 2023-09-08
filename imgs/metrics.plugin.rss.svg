@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Procreate Dreams</div>
+                                <div class="title">Show HN: Conway's Game of Life in TypeScript's type system</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Emoji Generator with AI</div>
+                                <div class="title">Just how constexpr is C++20’s std:string?</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Aardvark'd: The Fog Creek Documentary, 18 Years Later</div>
+                                <div class="title">CVE-2023-4809: FreeBSD pf bypass when using IPv6</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zinc-air batteries as an alternative to lithium-ion: study</div>
+                                <div class="title">Aardvark'd: The Fog Creek documentary, 18 years later</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
