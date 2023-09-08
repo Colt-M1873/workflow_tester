@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scammers Can Exploit Email Forwarding Flaws to Impersonate High-Profile Domains</div>
+                                <div class="title">Scammers can exploit email forwarding flaws to impersonate high-profile domains</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CVE-2023-4809: FreeBSD pf bypass when using IPv6</div>
+                                <div class="title">Decoded: GNU Coreutils</div>
                                 <div class="date">8 Sept 2023</div>
                             </div>
                         </div>
