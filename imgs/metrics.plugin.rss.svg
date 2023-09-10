@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">$400M in assets to bankrupt in 45-minutes because of a failed deployment (2014)</div>
+                                <div class="title">Knightmare: A DevOps Cautionary Tale (2014)</div>
                                 <div class="date">10 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to pass the interview for software engineering roles in Big Tech</div>
+                                <div class="title">RISC-V SBI and the full boot process</div>
                                 <div class="date">10 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Linux Information Project</div>
+                                <div class="title">Peredvizhnikov Engine: Lock-free game engine written in C++20</div>
                                 <div class="date">10 Sept 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Peredvizhnikov Engine is a fully lock-free game engine written in C++20</div>
+                                <div class="title">Improving NeRF quality by progressive camera placement</div>
                                 <div class="date">10 Sept 2023</div>
                             </div>
                         </div>
