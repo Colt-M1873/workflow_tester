@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The IKEA-powered homelab on a wall</div>
+                                <div class="title">YouTube-dl fork with additional features and fixes</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The meeting of the minds that launched AI</div>
+                                <div class="title">Show HN: Real-Time 3D Gaussian Splatting in WebGL</div>
                                 <div class="date">11 Sept 2023</div>
                             </div>
                         </div>
