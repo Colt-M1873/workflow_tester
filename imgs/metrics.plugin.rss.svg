@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LÖVE: a framework to make 2D games in Lua</div>
+                                <div class="title">Godot Game Engine</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Transcoding Unicode strings at crazy speeds with AVX-512</div>
+                                <div class="title">PF bug in macOS Sonoma release candidate</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bitty Engine: A tiny powerful game engine</div>
+                                <div class="title">Why the Eddie Murphy Rule Is About More Than Orange Juice (2019)</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
