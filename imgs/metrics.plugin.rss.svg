@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The great American eye-exam scam (2019)</div>
-                                <div class="date">14 Sept 2023</div>
+                                <div class="title">Skip the API, ship your database</div>
+                                <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Skip the API, ship your database</div>
+                                <div class="title">Let's write a treesitter major mode for Emacs</div>
                                 <div class="date">13 Sept 2023</div>
                             </div>
                         </div>
