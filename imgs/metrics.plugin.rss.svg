@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Yet another E-Ink weather display – but with Rust</div>
+                                <div class="title">Show HN: Unity like game editor running in pure WASM</div>
                                 <div class="date">26 Sept 2023</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Ollama for Linux – Run LLMs on Linux with GPU Acceleration</div>
+                                <div class="title">ROCm Is AMD's #1 Priority, Executive Says</div>
                                 <div class="date">26 Sept 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Magentic – Use LLMs as simple Python functions</div>
+                                <div class="title">EU tells Apple to open everything up to its rivals</div>
                                 <div class="date">26 Sept 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">J. G. Ballard’s Brilliant, “Not Good” Writing</div>
-                                <div class="date">25 Sept 2023</div>
+                                <div class="title">Causality for Machine Learning</div>
+                                <div class="date">26 Sept 2023</div>
                             </div>
                         </div>
                     </section>
