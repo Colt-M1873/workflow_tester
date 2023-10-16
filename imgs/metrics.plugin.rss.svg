@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mark Twain at Stormfield (1909) [video]</div>
-                                <div class="date">15 Oct 2023</div>
+                                <div class="title">"How to Build a Universe That Doesn't Fall Apart Two Days Later" – Philip K Dick (1978)</div>
+                                <div class="date">16 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Semihosting with VS Code on RP2040</div>
-                                <div class="date">16 Oct 2023</div>
+                                <div class="title">MemGPT: Towards LLMs as Operating Systems</div>
+                                <div class="date">15 Oct 2023</div>
                             </div>
                         </div>
                     </section>
