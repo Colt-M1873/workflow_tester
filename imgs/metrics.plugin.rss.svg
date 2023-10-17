@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Finland's ChatGPT equivalent begins to think in Estonian as well</div>
+                                <div class="date">17 Oct 2023</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">BB(3, 3) is Hard</div>
                                 <div class="date">17 Oct 2023</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Finland's ChatGPT equivalent begins to think in Estonian as well</div>
+                                <div class="title">SiFive Rolls Out RISC-V Cores Aimed at Generative AI and ML</div>
                                 <div class="date">17 Oct 2023</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Iowa Man Files Lawsuit After Being Arrested Twice for Criticizing the Police</div>
                                 <div class="date">17 Oct 2023</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Launch HN: Radical (YC W23) – Autonomous high-altitude solar aircraft</div>
-                                <div class="date">16 Oct 2023</div>
                             </div>
                         </div>
                     </section>
