@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WireHole is a combination of WireGuard, Pi-hole, and Unbound</div>
+                                <div class="title">Getting my library cards onto my phone the hard way</div>
                                 <div class="date">28 Oct 2023</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Demystifying Advanced RAG Pipelines</div>
+                                <div class="title">ESP32 Wemos D1 Mini – Sprinkler Controller Open Source</div>
                                 <div class="date">28 Oct 2023</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google to invest up to $2B in Anthropic</div>
-                                <div class="date">28 Oct 2023</div>
+                                <div class="title">Show HN: WireHole combines WireGuard, Pi-hole, and Unbound with an easy UI</div>
+                                <div class="date">27 Oct 2023</div>
                             </div>
                         </div>
                     </section>
