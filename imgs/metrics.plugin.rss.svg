@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">S-LoRA: Serving Concurrent LoRA Adapters</div>
-                                <div class="date">9 Nov 2023</div>
+                                <div class="title">SciPy builds for Python 3.12 on Windows are a minor miracle</div>
+                                <div class="date">8 Nov 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SciPy builds for Python 3.12 on Windows are a minor miracle</div>
-                                <div class="date">8 Nov 2023</div>
+                                <div class="title">i386 Assembly Language trick for storing data in .text</div>
+                                <div class="date">9 Nov 2023</div>
                             </div>
                         </div>
                     </section>
