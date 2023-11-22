@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What has changed in CPU cores in M3 chips?</div>
+                                <div class="title">EP–133</div>
                                 <div class="date">22 Nov 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">LM Studio – Discover, download, and run local LLMs</div>
+                                <div class="title">Writing and Linting Python at Scale</div>
                                 <div class="date">22 Nov 2023</div>
                             </div>
                         </div>
