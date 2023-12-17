@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Final Speech from The Great Dictator</div>
+                                <div class="title">"Yes" Means "No": The Curious Language of Venture Capitalists</div>
                                 <div class="date">17 Dec 2023</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BrainGPT turns thoughts into text</div>
+                                <div class="title">ArtBot for Stable Diffusion</div>
                                 <div class="date">17 Dec 2023</div>
                             </div>
                         </div>
