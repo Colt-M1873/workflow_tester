@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ultima</div>
+                                <div class="title">Ultima (2012)</div>
                                 <div class="date">6 Jan 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sounds of Cologne – The WDR Studio for Electronic Music</div>
+                                <div class="title">The Everything NPM Package</div>
                                 <div class="date">6 Jan 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Are We Automata?" by William James (1879)</div>
-                                <div class="date">5 Jan 2024</div>
+                                <div class="title">Sounds of Cologne – The WDR Studio for Electronic Music</div>
+                                <div class="date">6 Jan 2024</div>
                             </div>
                         </div>
                     </section>
