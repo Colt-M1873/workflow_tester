@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BigForth</div>
+                                <div class="title">k on pdp11</div>
                                 <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What has a 1 in a million chance? (2010)</div>
-                                <div class="date">7 Jan 2024</div>
+                                <div class="title">What PWA Can Do Today</div>
+                                <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MotorOS: a Rust-first operating system for x64 VMs</div>
+                                <div class="title">bigFORTH (1997)</div>
                                 <div class="date">8 Jan 2024</div>
                             </div>
                         </div>
