@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple hiring compiler developers for improving Swift / C++ interoperability</div>
+                                <div class="title">Ternary circuits: why R=3 is not the Optimal Radix for Computation</div>
                                 <div class="date">13 Jan 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">YouTransfer: Self-hosted file transfer and sharing solution</div>
+                                <div class="title">FAA grounds B737 Max 9 for the time being</div>
                                 <div class="date">13 Jan 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Found David Lynch's Lost 'Dune II' Script</div>
-                                <div class="date">11 Jan 2024</div>
+                                <div class="title">YouTransfer: Self-hosted file transfer and sharing solution</div>
+                                <div class="date">13 Jan 2024</div>
                             </div>
                         </div>
                     </section>
