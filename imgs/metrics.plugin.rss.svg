@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Windows 1.0 site – everything there is to know about the first Windows version</div>
+                                <div class="title">Yi: Open Foundation Models by 01.ai</div>
+                                <div class="date">10 Mar 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">A Copy of a Copy of a Copy: The Story of FDA Medical Device Clearances</div>
                                 <div class="date">10 Mar 2024</div>
                             </div>
                         </div>
@@ -38,16 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tenstorrent unveils Grayskull, its RISC-V answer to GPUs</div>
-                                <div class="date">10 Mar 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Ask HN: When will LLMs be able to interrupt or interject?</div>
+                                <div class="title">Show HN: LlamaGym – fine-tune LLM agents with online reinforcement learning</div>
                                 <div class="date">10 Mar 2024</div>
                             </div>
                         </div>
