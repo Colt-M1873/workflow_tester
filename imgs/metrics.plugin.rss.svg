@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">8 years later: A world Go champion's reflections on AlphaGo</div>
+                                <div class="title">Intel 8080 emulator. 19th IOCCC. Best of Show</div>
                                 <div class="date">19 Mar 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The New Inflection</div>
-                                <div class="date">19 Mar 2024</div>
+                                <div class="title">Unconventional Uses of FPGAs</div>
+                                <div class="date">18 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
