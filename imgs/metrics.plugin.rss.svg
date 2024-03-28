@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BeagleY-AI: a 4 TOPS-capable $70 board from Beagleboard</div>
-                                <div class="date">27 Mar 2024</div>
+                                <div class="title">What things are happening in ML that we can't hear oer the din of LLMs?</div>
+                                <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: PointOne (YC W24) – Automated time tracking for lawyers</div>
-                                <div class="date">27 Mar 2024</div>
+                                <div class="title">Endlessh-go: a Golang SSH tarpit that traps bots/scanners</div>
+                                <div class="date">28 Mar 2024</div>
                             </div>
                         </div>
                     </section>
