@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Einsum in 40 Lines of Python</div>
+                                <div class="title">Einsum for Tensor Manipulation</div>
                                 <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Cognita – open-source RAG framework for modular applications</div>
+                                <div class="title">Keep Out – WebGL Game</div>
                                 <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
