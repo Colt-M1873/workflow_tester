@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bun's New Crash Reporter</div>
-                                <div class="date">26 Apr 2024</div>
+                                <div class="title">Fyrox Game Engine – a Rust game engine with a real editor and scripting system</div>
+                                <div class="date">27 Apr 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I'm creating PBR Textures and 3D models since 2018 and sharing them for free</div>
+                                <div class="title">Bun's New Crash Reporter</div>
                                 <div class="date">26 Apr 2024</div>
                             </div>
                         </div>
