@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Farm: Fast vite compatible build tool written in Rust</div>
+                                <div class="title">CSS Tip: An em isn't an "m", but an ex is an "x"</div>
                                 <div class="date">22 Jun 2024</div>
                             </div>
                         </div>
