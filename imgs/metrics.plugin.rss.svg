@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microfeatures I Love in Blogs and Personal Websites</div>
+                                <div class="title">Microfeatures I love in blogs and personal websites</div>
                                 <div class="date">24 Jun 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DIY Smart Doorbell for just $2, no soldering required (2019)</div>
+                                <div class="title">Convert an existing wired doorbell into a smart doorbell using ESPHome</div>
                                 <div class="date">24 Jun 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The tiny chip that powers Montreal subway tickets</div>
-                                <div class="date">23 Jun 2024</div>
+                                <div class="title">Microsoft Account to local account conversion guide erased from Windows 11 guide</div>
+                                <div class="date">24 Jun 2024</div>
                             </div>
                         </div>
                     </section>
