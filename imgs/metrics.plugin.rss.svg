@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c</div>
+                                <div class="title">WebVM is a server-less virtual Linux environment running client-side</div>
                                 <div class="date">11 Jul 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Physicists have created the most fiendishly difficult maze</div>
-                                <div class="date">10 Jul 2024</div>
+                                <div class="title">Ubuntu Security Updates Are a Confusing Mess</div>
+                                <div class="date">11 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Korvus: Single-Query RAG with Postgres</div>
+                                <div class="title">How to Survive 3 Years in North Korea as a Foreigner</div>
                                 <div class="date">11 Jul 2024</div>
                             </div>
                         </div>
