@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">We saved $5k a month with a single Grafana query</div>
+                                <div class="title">Cradle: Empowering Foundation Agents Towards General Computer Control</div>
                                 <div class="date">12 Jul 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cradle: Empowering Foundation Agents Towards General Computer Control</div>
-                                <div class="date">12 Jul 2024</div>
+                                <div class="title">Beating the L1 cache with value speculation (2021)</div>
+                                <div class="date">11 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You can deeplink to a specific PDF page</div>
-                                <div class="date">12 Jul 2024</div>
+                                <div class="title">WebVM is a server-less virtual Linux environment running client-side</div>
+                                <div class="date">11 Jul 2024</div>
                             </div>
                         </div>
                     </section>
