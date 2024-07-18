@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: What's Prolog Like in 2024?</div>
+                                <div class="title">Modern Luddites: On Being a Digital Minimalist Family in a Tech-Saturated World</div>
+                                <div class="date">18 Jul 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Figma Retrospective on the "Make Designs" Feature</div>
                                 <div class="date">18 Jul 2024</div>
                             </div>
                         </div>
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Panic at the Job Market</div>
                                 <div class="date">17 Jul 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Elligator: Elliptic-curve points indistinguishable from uniform random strings (2013)</div>
-                                <div class="date">14 Jul 2024</div>
                             </div>
                         </div>
                     </section>
