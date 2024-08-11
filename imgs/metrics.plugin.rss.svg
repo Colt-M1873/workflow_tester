@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A high energy hadron collider on the Moon</div>
+                                <div class="title">Things I've learned building a modern TUI Framework</div>
                                 <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Things I've learned building a modern TUI Framework</div>
+                                <div class="title">OpenDevin: An Open Platform for AI Software Developers as Generalist Agents</div>
                                 <div class="date">11 Aug 2024</div>
                             </div>
                         </div>
