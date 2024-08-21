@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Euclid's Proof that √2 is Irrational</div>
-                                <div class="date">21 Aug 2024</div>
+                                <div class="title">Py5, a Python version of Processing for your creative coding projects</div>
+                                <div class="date">16 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Py5, a Python version of Processing for your creative coding projects</div>
-                                <div class="date">16 Aug 2024</div>
+                                <div class="title">Do low-level optimizations matter? Faster quicksort with cmov (2020)</div>
+                                <div class="date">21 Aug 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
