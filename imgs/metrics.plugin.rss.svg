@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Lidl's Cloud Gambit: Europe's Shift to Sovereign Computing</div>
+                                <div class="date">25 Aug 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Strandbeest</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Arrest of Pavel Durov, Telegram CEO, charges of terrorism, fraud, child porn</div>
+                                <div class="title">Emulating the Early Macintosh Floppy Drive</div>
                                 <div class="date">25 Aug 2024</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Study: Air purifier use at daycare centres cut kids' sick days by a third</div>
+                                <div class="title">Rnote – Sketch and take handwritten notes</div>
                                 <div class="date">25 Aug 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Modern Wardriving (2023)</div>
-                                <div class="date">23 Aug 2024</div>
                             </div>
                         </div>
                     </section>
