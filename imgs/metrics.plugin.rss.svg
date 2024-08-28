@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Diffusion Models Are Real-Time Game Engines</div>
+                                <div class="title">Diffusion models are real-time game engines</div>
                                 <div class="date">28 Aug 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Formal CHERI: rigorous engineering and design-time proof of full-scale architect</div>
+                                <div class="title">Formal CHERI: design-time proof of full-scale architecture security properties</div>
                                 <div class="date">28 Aug 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: IPA, a GUI for exploring inner details of PDF (Rust)</div>
+                                <div class="title">Show HN: IPA, a GUI for exploring inner details of PDFs</div>
                                 <div class="date">28 Aug 2024</div>
                             </div>
                         </div>
