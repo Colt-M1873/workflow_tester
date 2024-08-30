@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I always found this picture of Steve Jobs in his home office fascinating</div>
+                                <div class="title">Drug Development Failure: how GLP-1 development was abandoned in 1990</div>
                                 <div class="date">30 Aug 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Resilient Anonymous Communication for Everyone (Race)</div>
-                                <div class="date">30 Aug 2024</div>
+                                <div class="title">Emacs-like editor written in Common Lisp</div>
+                                <div class="date">26 Aug 2024</div>
                             </div>
                         </div>
                     </section>
