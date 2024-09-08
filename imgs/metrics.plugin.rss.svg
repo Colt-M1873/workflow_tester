@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">FBI recommends using an ad blocker</div>
+                                <div class="title">Reclaim the Stack</div>
                                 <div class="date">8 Sept 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Core: New way to develop video games</div>
+                                <div class="title">Core: an experimental new way to write videogames</div>
                                 <div class="date">8 Sept 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Unstripping" binaries: Restoring debugging information in GDB with Pwndbg</div>
+                                <div class="title">Exploiting CI / CD Pipelines for fun and profit</div>
                                 <div class="date">8 Sept 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Unconventional Case Study of Neoadjuvant Oncolytic Virotherapy for Breast Cancer</div>
-                                <div class="date">6 Sept 2024</div>
+                                <div class="title">The Fennel Programming Language</div>
+                                <div class="date">8 Sept 2024</div>
                             </div>
                         </div>
                     </section>
