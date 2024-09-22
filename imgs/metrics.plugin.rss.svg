@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It's probably time to rethink "Building in public"</div>
+                                <div class="title">Desktop Windowing on Android Tablets</div>
                                 <div class="date">22 Sept 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hy 1.0.0, the Lisp dialect for Python, has been released</div>
+                                <div class="title">Hy 1.0 – Lisp dialect for Python</div>
                                 <div class="date">22 Sept 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Love of cargo bikes is changing how we deliver goods in our cities</div>
-                                <div class="date">22 Sept 2024</div>
+                                <div class="title">Sanding UI</div>
+                                <div class="date">21 Sept 2024</div>
                             </div>
                         </div>
                     </section>
