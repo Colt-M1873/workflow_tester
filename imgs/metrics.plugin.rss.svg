@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Abandoned Mines Cover the West</div>
-                                <div class="date">1 Oct 2024</div>
+                                <div class="title">BorgBackup 2.0 supports Rclone – over 70 cloud providers in addition to SSH</div>
+                                <div class="date">30 Sept 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
