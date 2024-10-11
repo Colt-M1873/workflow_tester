@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Dead man's switch without reliance on your infra</div>
+                                <div class="title">Grokking at the Edge of Linear Separability</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Lisp compiler to RISC-V written in Lisp</div>
+                                <div class="title">The Role of Anchor Tokens in Self-Attention Networks</div>
                                 <div class="date">11 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Initial CUDA Performance Lessons</div>
-                                <div class="date">11 Oct 2024</div>
+                                <div class="title">Run Llama locally with only PyTorch on CPU</div>
+                                <div class="date">8 Oct 2024</div>
                             </div>
                         </div>
                     </section>
