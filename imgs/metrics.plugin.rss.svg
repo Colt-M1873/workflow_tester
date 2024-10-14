@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Huly – Open-Source All-in-One Project Management Platform</div>
+                                <div class="title">Huly – Open-source project management platform</div>
                                 <div class="date">14 Oct 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why pay for a search engine</div>
+                                <div class="title">A FLOSS platform for data analysis pipelines that you probably haven't heard of</div>
                                 <div class="date">14 Oct 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Refurb weekend: the Symbolics MacIvory Lisp machine I have hated</div>
-                                <div class="date">13 Oct 2024</div>
+                                <div class="title">Why pay for a search engine</div>
+                                <div class="date">14 Oct 2024</div>
                             </div>
                         </div>
                     </section>
