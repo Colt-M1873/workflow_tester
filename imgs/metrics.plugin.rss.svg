@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">After 16 years of development, Postbox Inc. is winding down its operations</div>
+                                <div class="title">Chromium uses web search for .internal TLD instead of opening URL</div>
                                 <div class="date">24 Oct 2024</div>
                             </div>
                         </div>
