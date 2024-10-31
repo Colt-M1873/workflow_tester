@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenZFS deduplication is good now and you shouldn't use it</div>
+                                <div class="title">It might be possible to detect gravitons after all</div>
                                 <div class="date">30 Oct 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It Might Be Possible to Detect Gravitons After All</div>
+                                <div class="title">OpenZFS deduplication is good now and you shouldn't use it</div>
                                 <div class="date">30 Oct 2024</div>
                             </div>
                         </div>
