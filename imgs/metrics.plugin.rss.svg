@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hazel: A live functional programming environment featuring typed holes</div>
+                                <div class="title">Wait Until 8th</div>
                                 <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Everyone is wrong about that Slack flowchart</div>
-                                <div class="date">30 Oct 2024</div>
+                                <div class="title">An Update on Apple M1/M2 GPU Drivers</div>
+                                <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Patched (YC S24) – AI workflows for post-code tasks</div>
+                                <div class="title">Hazel: A live functional programming environment featuring typed holes</div>
                                 <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
