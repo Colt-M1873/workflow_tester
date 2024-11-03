@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I couldn't find a free, no-login, no-AI checklist app–so I built one</div>
+                                <div class="title">The DeskThing: the perfect desk assistant</div>
                                 <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Create block devices on your computer backed by Redstone Memory</div>
-                                <div class="date">29 Oct 2024</div>
+                                <div class="title">ToolGit: A collection of scripts that extend Git with various sub-commands</div>
+                                <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A React Renderer for Gnome JavaScript</div>
+                                <div class="title">Programming Languages That Blew My Mind (2023)</div>
                                 <div class="date">31 Oct 2024</div>
                             </div>
                         </div>
