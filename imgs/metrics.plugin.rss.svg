@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Moving Off Heroku, Slowly</div>
+                                <div class="title">Why systemd is a problem for embedded Linux</div>
                                 <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hacker News Data Map</div>
+                                <div class="title">HardenedBSD Feature Comparison with OpenBSD, FreeBSD, NetBSD</div>
                                 <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Touchscreens are out, and tactile controls are back</div>
+                                <div class="title">Bill Atkinson doxxed Douglas Adams in 1987</div>
                                 <div class="date">3 Nov 2024</div>
                             </div>
                         </div>
