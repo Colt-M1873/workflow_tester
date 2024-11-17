@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude AI built me a React app to compare maps side by side</div>
+                                <div class="title">Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley</div>
                                 <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">All-in-one embedding model for interleaved text, images, and screenshots</div>
-                                <div class="date">17 Nov 2024</div>
+                                <div class="title">The bucket brigade device: An analog shift register</div>
+                                <div class="date">15 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Constraints in Go</div>
+                                <div class="title">All-in-one embedding model for interleaved text, images, and screenshots</div>
                                 <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
