@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Silicon Valley Is Turning into Its Own Worst Fear" Ted Chiang (2017)</div>
+                                <div class="title">A Brazilian CA trusted only by Microsoft has issued a certificate for google.com</div>
                                 <div class="date">30 Nov 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WinDepends – A Rewrite of the Dependency Walker</div>
-                                <div class="date">23 Nov 2024</div>
+                                <div class="title">We need data engineering benchmarks for LLMs</div>
+                                <div class="date">1 Dec 2024</div>
                             </div>
                         </div>
                     </section>
