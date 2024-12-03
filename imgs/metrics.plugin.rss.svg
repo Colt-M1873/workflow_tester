@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">8 months of OCaml after 8 years of Haskell in production (2023)</div>
+                                <div class="title">Lessons I learned working at an art gallery</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lessons I learned working at an art gallery</div>
+                                <div class="title">8 months of OCaml after 8 years of Haskell in production (2023)</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
