@@ -20,16 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Intel Launches Arc B-Series Graphics Cards</div>
-                                <div class="date">3 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node</div>
+                                <div class="title">Stephen King to Shut Down His 3 Radio Stations in Maine</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tweaking Stunt Island's 30-year-old 3D Engine</div>
+                                <div class="title">Intel announces Arc B-series "Battlemage" discrete graphics with Linux support</div>
+                                <div class="date">3 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Skia Canvas: Browser-Less Implementation of the HTML Canvas Drawing API for Node</div>
                                 <div class="date">3 Dec 2024</div>
                             </div>
                         </div>
