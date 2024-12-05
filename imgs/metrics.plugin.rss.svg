@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Diátaxis – A systematic approach to technical documentation authoring</div>
+                                <div class="title">How to pack ternary numbers in 8-bit bytes</div>
                                 <div class="date">5 Dec 2024</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'</div>
+                                <div class="title">cli53 – Command line tool for Amazon Route 53</div>
                                 <div class="date">5 Dec 2024</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Training myself to run farther with Strava's API and an IoT dog feeder of M&amp;Ms</div>
-                                <div class="date">2 Dec 2024</div>
+                                <div class="title">Federal Court Says Dismantling a Phone to Install Firmware Isn't a 'Search'</div>
+                                <div class="date">5 Dec 2024</div>
                             </div>
                         </div>
                     </section>
