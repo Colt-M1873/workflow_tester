@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MarkItDown: Python tool for converting files and office documents to Markdown</div>
+                                <div class="title">Exotic new superconductors delight and confound</div>
+                                <div class="date">9 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: @smoores/epub, a JavaScript library for working with EPUB publications</div>
                                 <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
@@ -29,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection</div>
-                                <div class="date">13 Dec 2024</div>
+                                <div class="title">The Pentium FDIV bug, reverse-engineered</div>
+                                <div class="date">11 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -40,15 +49,6 @@
                             <div class="infos">
                                 <div class="title">Making my first robot as a software engineer</div>
                                 <div class="date">10 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Show HN: Imposter Attack – Among Us-themed infrared game made with ESP32</div>
-                                <div class="date">13 Dec 2024</div>
                             </div>
                         </div>
                     </section>
