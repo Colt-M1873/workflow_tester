@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ada's Dependent Types, and Its Types as a Whole</div>
+                                <div class="title">Ada's dependent types, and its types as a whole</div>
                                 <div class="date">28 Dec 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">That's Not an Abstraction, That's Just a Layer of Indirection</div>
+                                <div class="title">That's not an abstraction, that's a layer of indirection</div>
                                 <div class="date">25 Dec 2024</div>
                             </div>
                         </div>
