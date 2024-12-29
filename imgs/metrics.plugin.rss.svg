@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Are PC hardware companies driving technology into restricted closed ecosystems?</div>
+                                <div class="title">President Jimmy Carter has passed away</div>
                                 <div class="date">29 Dec 2024</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Apple Photos phones home on iOS 18 and macOS 15</div>
-                                <div class="date">28 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">I Run LLMs Locally</div>
+                                <div class="title">Are PC hardware companies driving technology into restricted closed ecosystems?</div>
                                 <div class="date">29 Dec 2024</div>
                             </div>
                         </div>
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Is Iceland getting ready to join the EU?</div>
                                 <div class="date">29 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">20 Years Ago Today, Deadliest Tsunami Set Off Work to Be Ready for Next Big Wave</div>
+                                <div class="date">27 Dec 2024</div>
                             </div>
                         </div>
                     </section>
