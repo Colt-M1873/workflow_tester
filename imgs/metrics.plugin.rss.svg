@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Playing Chess with 84,688 Regular Expressions</div>
+                                <div class="title">A 2-ply minimax chess engine in 84,688 regular expressions</div>
                                 <div class="date">7 Jan 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Rise of the French Fry Cartel</div>
-                                <div class="date">5 Jan 2025</div>
+                                <div class="title">How I program with LLMs</div>
+                                <div class="date">7 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I program with LLMs</div>
-                                <div class="date">7 Jan 2025</div>
+                                <div class="title">The Rise of the French Fry Cartel</div>
+                                <div class="date">5 Jan 2025</div>
                             </div>
                         </div>
                     </section>
