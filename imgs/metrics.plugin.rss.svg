@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PCBs, copper pours, ground planes, and you</div>
-                                <div class="date">30 Jan 2025</div>
+                                <div class="title">Rust's worst feature (available in Rust nightly)</div>
+                                <div class="date">27 Jan 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Analysis of 76,882 Product Hunt Products, from 2014 – 2021</div>
-                                <div class="date">26 Jan 2025</div>
+                                <div class="title">LibreOffice 400M Downloads, and Counting</div>
+                                <div class="date">30 Jan 2025</div>
                             </div>
                         </div>
                     </section>
