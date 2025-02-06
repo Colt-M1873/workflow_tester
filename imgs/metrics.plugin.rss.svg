@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: An homage to Tom Dowdy's 1991 screensaver, "Kaos"</div>
+                                <div class="title">SQLite Disk Page Explorer</div>
                                 <div class="date">6 Feb 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Paper Apps</div>
+                                <div class="title">Scala 3 Migration: Report from the Field</div>
                                 <div class="date">6 Feb 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Science of Microwave Ovens</div>
-                                <div class="date">6 Feb 2025</div>
+                                <div class="title">OpenLDK: A Java JIT compiler and runtime in Common Lisp</div>
+                                <div class="date">5 Feb 2025</div>
                             </div>
                         </div>
                     </section>
