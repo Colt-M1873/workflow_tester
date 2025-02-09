@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rwandan scientists develop local yeast for banana wine-makers</div>
-                                <div class="date">8 Feb 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Classic Data science pipelines built with LLMs</div>
+                                <div class="title">Baffled by generational garbage collection – wingolog</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Show HN: My first side project, streamlined book clubs on Slack</div>
+                                <div class="date">9 Feb 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Scaling with PostgreSQL without boiling the ocean</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
