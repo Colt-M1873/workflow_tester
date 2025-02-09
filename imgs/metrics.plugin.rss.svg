@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Don't "optimize" conditional moves in shaders with mix()+step()</div>
+                                <div class="title">OpenStreetMap Calendar</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why Blog If Nobody Reads It?</div>
+                                <div class="title">AI Demos by Meta</div>
                                 <div class="date">9 Feb 2025</div>
                             </div>
                         </div>
