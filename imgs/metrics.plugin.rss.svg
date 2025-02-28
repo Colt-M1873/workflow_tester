@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WASM Wayland Web (WWW)</div>
+                                <div class="title">I found 1000 GitHub repos with malware. Can we get them deleted?</div>
                                 <div class="date">28 Feb 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I found 1000 GitHub repos with malware. Can we get them deleted?</div>
+                                <div class="title">WASM Wayland Web (WWW)</div>
                                 <div class="date">28 Feb 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gleam, Coming from Erlang</div>
-                                <div class="date">25 Feb 2025</div>
+                                <div class="title">GPT-4.5</div>
+                                <div class="date">27 Feb 2025</div>
                             </div>
                         </div>
                     </section>
