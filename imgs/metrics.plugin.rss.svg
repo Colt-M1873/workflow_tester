@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Landscape of Lisp</div>
+                                <div class="title">Why Local-First Software Is the Future and Its Limitations</div>
                                 <div class="date">7 Mar 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Matters Computational Ideas, Algorithms, Source Code – Jorg Arndt [pdf]</div>
+                                <div class="title">C Is Not a Low-level Language: Your computer is not a fast PDP-11 (2018)</div>
                                 <div class="date">7 Mar 2025</div>
                             </div>
                         </div>
