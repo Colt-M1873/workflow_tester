@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rewriting essential Linux packages in Rust</div>
+                                <div class="title">It is as if you were on your phone</div>
                                 <div class="date">9 Mar 2025</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It is as if you were on your phone</div>
-                                <div class="date">9 Mar 2025</div>
+                                <div class="title">Improving on std:count_if()'s auto-vectorization</div>
+                                <div class="date">8 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Improving on std:count_if()'s auto-vectorization</div>
-                                <div class="date">8 Mar 2025</div>
+                                <div class="title">Europe bets once again on RISC-V for supercomputing</div>
+                                <div class="date">9 Mar 2025</div>
                             </div>
                         </div>
                     </section>
