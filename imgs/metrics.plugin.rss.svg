@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Recursion kills: The story behind CVE-2024-8176 in libexpat</div>
+                                <div class="title">"Normal" engineers are the key to great teams</div>
                                 <div class="date">13 Mar 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Normal" engineers are the key to great teams</div>
+                                <div class="title">How Pi Almost Wasn't</div>
                                 <div class="date">13 Mar 2025</div>
                             </div>
                         </div>
