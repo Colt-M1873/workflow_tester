@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why F#?</div>
+                                <div class="title">We Can, Must, and Will Simulate Nematode Brains</div>
                                 <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Interactive article about heart arrhythmias</div>
-                                <div class="date">28 Mar 2025</div>
+                                <div class="title">Systems Correctness Practices at AWS: Leveraging Formal and Semi-Formal Methods</div>
+                                <div class="date">1 Apr 2025</div>
                             </div>
                         </div>
                     </section>
