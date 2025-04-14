@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A hackable AI assistant using a single SQLite table and a handful of cron jobs</div>
+                                <div class="title">GPT-4.1 in the API</div>
                                 <div class="date">14 Apr 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How to Bike Across the Country</div>
+                                <div class="title">A hackable AI assistant using a single SQLite table and a handful of cron jobs</div>
                                 <div class="date">14 Apr 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Scientists: Protein IL-17 fights infection, acts on the brain, inducing anxiety</div>
+                                <div class="title">Show HN: Zero-codegen, no-compile TypeScript type inference from Protobufs</div>
                                 <div class="date">14 Apr 2025</div>
                             </div>
                         </div>
