@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Whistleblower: DOGE Siphoned NLRB Case Data</div>
+                                <div class="title">Should We Respect LLMs? A Study on Influence of Prompt Politeness on Performance</div>
                                 <div class="date">22 Apr 2025</div>
                             </div>
                         </div>
@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">RISC-V RVA23 Profile: A major milestone</div>
+                                <div class="title">Coding as Craft: Going Back to the Old Gym</div>
                                 <div class="date">22 Apr 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Synology Lost the Plot with Hard Drive Locking Move</div>
-                                <div class="date">19 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Attacking My Landlord's Boiler</div>
                                 <div class="date">22 Apr 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Evertop: E-ink IBM XT clone with 100+ hours of battery life</div>
+                                <div class="date">21 Apr 2025</div>
                             </div>
                         </div>
                     </section>
