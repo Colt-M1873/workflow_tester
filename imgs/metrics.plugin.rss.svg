@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: My from-scratch OS kernel that runs DOOM</div>
+                                <div class="title">"Careless People" the book that Meta tried to suppress</div>
                                 <div class="date">24 Apr 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You wouldn't steal a font</div>
-                                <div class="date">23 Apr 2025</div>
+                                <div class="title">Show HN: My from-scratch OS kernel that runs DOOM</div>
+                                <div class="date">24 Apr 2025</div>
                             </div>
                         </div>
                     </section>
