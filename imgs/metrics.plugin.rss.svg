@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">"Sneakers" film released in 4k, struck from original camera negative</div>
+                                <div class="title">Sneakers (1992) – 4K Restoration</div>
                                 <div class="date">6 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Faster sorting with SIMD CUDA intrinsics (2024)</div>
+                                <div class="title">Evolving OpenAI's Structure</div>
                                 <div class="date">5 May 2025</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Evolving OpenAI's Structure</div>
-                                <div class="date">5 May 2025</div>
+                                <div class="title">Hyper – Outperform React on every metric</div>
+                                <div class="date">6 May 2025</div>
                             </div>
                         </div>
                     </section>
