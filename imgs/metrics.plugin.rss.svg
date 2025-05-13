@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ETH Zurich researchers discover new security vulnerability in Intel processors</div>
+                                <div class="title">Branch Privilege Injection: Exploiting branch predictor race conditions</div>
                                 <div class="date">13 May 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Multiple Security Issues in GNU Screen</div>
+                                <div class="title">PDF to Text, a challenging problem</div>
                                 <div class="date">13 May 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It Awaits Your Experiments</div>
+                                <div class="title">Multiple security issues in GNU Screen</div>
                                 <div class="date">13 May 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">PDF to Text, a Challenging Problem</div>
+                                <div class="title">Show HN: Helixdb – Open-source vector-graph database for AI applications (Rust)</div>
                                 <div class="date">13 May 2025</div>
                             </div>
                         </div>
