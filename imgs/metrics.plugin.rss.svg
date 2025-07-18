@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">lsr: ls with io_uring</div>
+                                <div class="title">Third patient dies from acute liver failure caused by a Sarepta gene therapy</div>
                                 <div class="date">18 Jul 2025</div>
                             </div>
                         </div>
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trying Guix: A Nixer's impressions</div>
-                                <div class="date">15 Jul 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Everything You Need to Know About Grok 4</div>
+                                <div class="title">Asynchrony Is Not Concurrency</div>
                                 <div class="date">18 Jul 2025</div>
                             </div>
                         </div>
@@ -47,7 +38,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CP/M creator Gary Kildall's memoirs released as free download</div>
+                                <div class="title">Replication of Quantum Factorisation Records with a VIC-20, an Abacus, and a Dog</div>
+                                <div class="date">18 Jul 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Show HN: I built library management app for those who outgrew spreadsheets</div>
                                 <div class="date">18 Jul 2025</div>
                             </div>
                         </div>
