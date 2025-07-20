@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coding with LLMs in the summer of 2025 – an update</div>
+                                <div class="title">Stdio(3) change: FILE is now opaque (OpenBSD)</div>
                                 <div class="date">20 Jul 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Insights on Teufel's First Open-Source Speaker</div>
+                                <div class="title">Hacking a Toniebox</div>
                                 <div class="date">20 Jul 2025</div>
                             </div>
                         </div>
