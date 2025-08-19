@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Chrome intends to remove XSLT from the HTML spec</div>
+                                <div class="title">How We Exploited CodeRabbit: From Simple PR to RCE and Write Access on 1M Repos</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Custom telescope mount using harmonic drives and ESP32</div>
+                                <div class="title">Emacs as your video-trimming tool</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Critical Cache Poisoning Vulnerability in Dnsmasq</div>
+                                <div class="title">"Remove mentions of XSLT from the html spec"</div>
                                 <div class="date">19 Aug 2025</div>
                             </div>
                         </div>
