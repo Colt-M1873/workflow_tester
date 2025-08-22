@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Media over QUIC (MoQ): Refactoring the Internet's real-time media stack</div>
+                                <div class="title">Nitro: A tiny but flexible init system and process supervisor</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sprinkling self-doubt on ChatGPT</div>
+                                <div class="title">The First Media over QUIC CDN: Cloudflare</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google Did Not Unilaterally Decide to Kill XSLT</div>
+                                <div class="title">Should the web platform adopt XSLT 3.0?</div>
                                 <div class="date">22 Aug 2025</div>
                             </div>
                         </div>
