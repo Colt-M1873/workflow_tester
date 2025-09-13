@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">486Tang – 486 on a credit-card-sized FPGA board</div>
+                                <div class="title">RIP pthread_cancel</div>
                                 <div class="date">13 Sept 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Mago: A fast PHP toolchain written in Rust</div>
+                                <div class="title">486Tang – 486 on a credit-card-sized FPGA board</div>
                                 <div class="date">13 Sept 2025</div>
                             </div>
                         </div>
