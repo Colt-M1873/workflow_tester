@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Just Let Me Select Text</div>
+                                <div class="title">That Secret Service SIM farm story is bogus</div>
                                 <div class="date">24 Sept 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">That Secret Service SIM farm story is bogus</div>
+                                <div class="title">SedonaDB: A new geospatial DataFrame library written in Rust</div>
                                 <div class="date">24 Sept 2025</div>
                             </div>
                         </div>
