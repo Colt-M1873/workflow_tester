@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How has mathematics gotten so abstract?</div>
+                                <div class="title">How the AI bubble ate Y Combinator</div>
+                                <div class="date">30 Sept 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Deml: The Directed Acyclic Graph Elevation Markup Language</div>
                                 <div class="date">30 Sept 2025</div>
                             </div>
                         </div>
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Google CTF 2025 – webz : Exploiting zlib's Huffman Code Table</div>
-                                <div class="date">30 Sept 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Bcachefs removed from the mainline kernel</div>
                                 <div class="date">30 Sept 2025</div>
                             </div>
                         </div>
