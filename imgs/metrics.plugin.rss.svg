@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Comparison of Ada and Rust, Using Solutions to the Advent of Code</div>
+                                <div class="title">ProofOfThought: LLM-based reasoning using Z3 theorem proving</div>
                                 <div class="date">4 Oct 2025</div>
                             </div>
                         </div>
@@ -29,17 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Use theorem provers to ensure the correctness of your LLM's reasoning</div>
+                                <div class="title">A comparison of Ada and Rust, using solutions to the Advent of Code</div>
                                 <div class="date">4 Oct 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Five Years as a Startup CTO: How, Why, and Was It Worth It?</div>
-                                <div class="date">1 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -49,6 +40,15 @@
                             <div class="infos">
                                 <div class="title">Knowledge Infusion Scaling Law for Pre-Training Large Language Models</div>
                                 <div class="date">4 Oct 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Five years as a startup CTO: How, why, and was it worth it? (2024)</div>
+                                <div class="date">1 Oct 2025</div>
                             </div>
                         </div>
                     </section>
