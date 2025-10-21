@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I'm rewriting a web server written in Rust for speed and ease of use</div>
-                                <div class="date">21 Oct 2025</div>
+                                <div class="title">AWS multiple services outage in us-east-1</div>
+                                <div class="date">20 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AWS multiple services outage in us-east-1</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Pasta/80 is a simple Pascal cross compiler targeting the Z80 microprocessor</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
