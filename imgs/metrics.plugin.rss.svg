@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You Don't Need Anubis</div>
+                                <div class="title">Yes, you should understand backprop (2016)</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How I use every Claude Code feature</div>
+                                <div class="title">CLI to manage your SQL database schemas and migrations</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Crossfire: High-performance lockless spsc/mpsc/mpmc channels for Rust</div>
+                                <div class="title">How I use every Claude Code feature</div>
                                 <div class="date">2 Nov 2025</div>
                             </div>
                         </div>
