@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="183" class="">
     <defs>
         <style/>
     </defs>
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">This is not the future</div>
+                                <div class="title">40 percent of fMRI signals do not correspond to actual brain activity</div>
                                 <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">40 percent of fMRI signals do not correspond to actual brain activity</div>
-                                <div class="date">16 Dec 2025</div>
+                                <div class="title">Purrtran – ᓚᘏᗢ – A Programming Language for Cat People</div>
+                                <div class="date">13 Dec 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Full Unicode Search at 50× ICU Speed with AVX‑512</div>
-                                <div class="date">15 Dec 2025</div>
+                                <div class="title">Mozilla appoints new CEO Anthony Enzor-Demeo</div>
+                                <div class="date">16 Dec 2025</div>
                             </div>
                         </div>
                     </section>
