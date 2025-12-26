@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming</div>
+                                <div class="title">Building an AI agent inside a 7-year-old Rails monolith</div>
                                 <div class="date">26 Dec 2025</div>
                             </div>
                         </div>
