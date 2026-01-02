@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why users cannot create Issues directly (Ghostty)</div>
+                                <div class="title">Why users cannot create Issues directly</div>
                                 <div class="date">2 Jan 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Finland detains ship and its crew after critical undersea cable damaged</div>
-                                <div class="date">1 Jan 2026</div>
+                                <div class="title">Marmot – A distributed SQLite server with MySQL wire compatible interface</div>
+                                <div class="date">2 Jan 2026</div>
                             </div>
                         </div>
                     </section>
