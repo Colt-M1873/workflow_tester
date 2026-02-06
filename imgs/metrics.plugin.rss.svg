@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">It's 2026, Just Use Postgres</div>
+                                <div class="title">GPT-5.3-Codex</div>
                                 <div class="date">5 Feb 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-5.3-Codex</div>
-                                <div class="date">5 Feb 2026</div>
+                                <div class="title">GitHub Actions is slowly killing engineering teams</div>
+                                <div class="date">6 Feb 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
