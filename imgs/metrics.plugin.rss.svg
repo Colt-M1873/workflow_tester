@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I spent 4 years building a UI design tool with only the features I use</div>
+                                <div class="title">Monty: A minimal, secure Python interpreter written in Rust for use by AI</div>
                                 <div class="date">6 Feb 2026</div>
                             </div>
                         </div>
