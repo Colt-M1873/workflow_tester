@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">California's Digital Age Assurance Act, and FOSS</div>
-                                <div class="date">4 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Graphics Programming Resources</div>
+                                <div class="title">Nobody Gets Promoted for Simplicity</div>
                                 <div class="date">4 Mar 2026</div>
                             </div>
                         </div>
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">TikTok will not introduce end-to-end encryption, saying it makes users less safe</div>
+                                <div class="date">4 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Graphics Programming Resources</div>
                                 <div class="date">4 Mar 2026</div>
                             </div>
                         </div>
