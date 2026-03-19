@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">An update on Steam / GOG changes for OpenTTD</div>
+                                <div class="title">Anthropic takes legal action against OpenCode</div>
                                 <div class="date">19 Mar 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Noq: n0's new QUIC implementation in Rust</div>
-                                <div class="date">19 Mar 2026</div>
+                                <div class="title">Return of the Obra Dinn: spherical mapped dithering for a 1bpp first-person game</div>
+                                <div class="date">16 Mar 2026</div>
                             </div>
                         </div>
                     </section>
