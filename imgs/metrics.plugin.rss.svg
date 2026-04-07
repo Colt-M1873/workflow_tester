@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Solod – A Subset of Go That Translates to C</div>
-                                <div class="date">7 Apr 2026</div>
+                                <div class="title">My Experience as a Rice Farmer</div>
+                                <div class="date">2 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Freestyle – Sandboxes for Coding Agents</div>
-                                <div class="date">6 Apr 2026</div>
+                                <div class="title">Solod – A subset of Go that translates to C</div>
+                                <div class="date">7 Apr 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A cryptography engineer's perspective on quantum computing timelines</div>
+                                <div class="title">Issue: Claude Code is unusable for complex engineering tasks with Feb updates</div>
                                 <div class="date">6 Apr 2026</div>
                             </div>
                         </div>
