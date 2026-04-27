@@ -20,15 +20,6 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">United Wizards of the Coast</div>
-                                <div class="date">27 Apr 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
                                 <div class="title">Microsoft and OpenAI end their exclusive and revenue-sharing deal</div>
                                 <div class="date">27 Apr 2026</div>
                             </div>
@@ -38,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Open-Source KiCad PCBs for Common Arduino, ESP32, RP2040 Boards</div>
+                                <div class="title">Easyduino: Open Source PCB Devboards for KiCad</div>
                                 <div class="date">27 Apr 2026</div>
                             </div>
                         </div>
@@ -48,6 +39,15 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">“Why not just use Lean?”</div>
+                                <div class="date">27 Apr 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">China blocks Meta's acquisition of AI startup Manus</div>
                                 <div class="date">27 Apr 2026</div>
                             </div>
                         </div>
