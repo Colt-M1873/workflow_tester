@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bun ported to Rust in 6 days</div>
+                                <div class="title">Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc</div>
                                 <div class="date">9 May 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers</div>
+                                <div class="title">Zed Editor Theme-Builder</div>
                                 <div class="date">9 May 2026</div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Will Not Add Query Strings to Your URLs</div>
+                                <div class="title">I’ve banned query strings</div>
                                 <div class="date">9 May 2026</div>
                             </div>
                         </div>
