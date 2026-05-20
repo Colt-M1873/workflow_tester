@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Meta blocks human rights accounts from reaching audiences in Arabia and the UAE</div>
+                                <div class="title">Incident Report: May 19, 2026 – GCP Account Suspension</div>
                                 <div class="date">20 May 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment</div>
+                                <div class="title">An OpenAI model has disproved a central conjecture in discrete geometry</div>
                                 <div class="date">20 May 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">How fast is N tokens per second really?</div>
+                                <div class="date">18 May 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -39,15 +48,6 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">Qwen3.7-Max: The Agent Frontier</div>
-                                <div class="date">20 May 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Saying Goodbye to Asm.js</div>
                                 <div class="date">20 May 2026</div>
                             </div>
                         </div>
