@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Announcing three new discoveries in mathematics, computer science, and physics</div>
+                                <div class="title">Three new discoveries in mathematics, computer science, and physics</div>
                                 <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sebastian Raschka's from-scratch video course on building reasoning models</div>
-                                <div class="date">26 Oct 2026</div>
+                                <div class="title">There are now 5 inference providers for abliterated DeepSeek</div>
+                                <div class="date">27 Oct 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)</div>
+                                <div class="title">Sebastian Raschka's from-scratch video course on building reasoning models</div>
                                 <div class="date">26 Oct 2026</div>
                             </div>
                         </div>
