@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sshole</div>
+                                <div class="title">sshole</div>
                                 <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
@@ -29,7 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Baidu released ERNIE 5.5 Flash Base</div>
+                                <div class="title">Kagi Search for Everyone</div>
                                 <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
@@ -38,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenSSH 10.6p2 Critical workaround for alpine without PAM</div>
+                                <div class="title">Alpine Linux Security Advisory: OpenSSH-server password authentication bypass</div>
                                 <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Residential proxies detected on White House network</div>
-                                <div class="date">4 Nov 2026</div>
+                                <div class="title">The Hackintosh Reborn</div>
+                                <div class="date">5 Nov 2026</div>
                             </div>
                         </div>
                     </section>
