@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Atari Homebrew Awards Cancelled</div>
+                                <div class="title">Farewell</div>
                                 <div class="date">28 Nov 2026</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google's DeepCrossAttention achieves comparable model quality up to 3x faster</div>
-                                <div class="date">27 Nov 2026</div>
+                                <div class="title">Unkernel: Real Linux kernel, compiled to WebAssembly</div>
+                                <div class="date">28 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT 6.2 Astra Solves a Historical Mystery</div>
-                                <div class="date">25 Nov 2026</div>
+                                <div class="title">Loom seamlessly combines weaving, knitting and braiding</div>
+                                <div class="date">24 Nov 2026</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Balatro Timeline</div>
-                                <div class="date">26 Nov 2026</div>
+                                <div class="title">Knuth: Moratorium on Error Reports</div>
+                                <div class="date">28 Nov 2026</div>
                             </div>
                         </div>
                     </section>
